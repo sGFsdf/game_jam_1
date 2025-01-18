@@ -1,1 +1,2 @@
-Place to store game assests. Such as character sprites. 
+_Base_ means I used it for the base to build another off of. 
+_Anim_ indicates an ainimated file. 
