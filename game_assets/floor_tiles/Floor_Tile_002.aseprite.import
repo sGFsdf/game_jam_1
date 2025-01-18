@@ -1,0 +1,17 @@
+[remap]
+
+importer="aseprite_wizard.plugin"
+type="SpriteFrames"
+path="res://.import/Floor_Tile_002.aseprite-6dbf7917da3acabf5bafc99a2712900c.res"
+
+[deps]
+
+source_file="res://game_assets/Floor Tiles/Floor_Tile_002.aseprite"
+dest_files=[ "res://.import/Floor_Tile_002.aseprite-6dbf7917da3acabf5bafc99a2712900c.res" ]
+
+[params]
+
+split_layers=false
+exclude_layers_pattern=""
+only_visible_layers=false
+sheet_type="Packed"
