@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRVVQOcNbYinNhNKIQm1kmV2Nf8tnZ9Mej2v/KpJ+ZL0B+GQc2docY6knN6RYeRcblCONE9ZCnZWUnbnw9oUhg==",
+  "success": true,
+  "projectFilePath": "/home/takamachi/projects/game_jams/pirate_game_jam_16/pirate_game_jam_16.csproj",
+  "expectedPackageFiles": [
+    "/home/takamachi/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/takamachi/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
