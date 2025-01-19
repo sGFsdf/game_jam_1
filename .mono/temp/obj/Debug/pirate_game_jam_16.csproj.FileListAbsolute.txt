@@ -1,0 +1,10 @@
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/bin/Debug/pirate_game_jam_16.dll
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/bin/Debug/pirate_game_jam_16.pdb
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.csproj.AssemblyReference.cache
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.GeneratedMSBuildEditorConfig.editorconfig
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.AssemblyInfoInputs.cache
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.AssemblyInfo.cs
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.csproj.CoreCompileInputs.cache
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.sourcelink.json
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.dll
+/home/takamachi/projects/game_jams/pirate_game_jam_16/.mono/temp/obj/Debug/pirate_game_jam_16.pdb
