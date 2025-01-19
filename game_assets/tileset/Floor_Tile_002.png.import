@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wall_Tile_002.png-800d752d8e38376befdd9e05fca405ab.stex"
+path="res://.import/Floor_Tile_002.png-54b518f6dd33a914a7ca816cb379171f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game_assets/Tileset/Wall_Tile_002.png"
-dest_files=[ "res://.import/Wall_Tile_002.png-800d752d8e38376befdd9e05fca405ab.stex" ]
+source_file="res://game_assets/tileset/Floor_Tile_002.png"
+dest_files=[ "res://.import/Floor_Tile_002.png-54b518f6dd33a914a7ca816cb379171f.stex" ]
 
 [params]
 

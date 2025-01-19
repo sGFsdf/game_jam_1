@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wall_Tile_Corner_001.png-49c210b2f78f62e592e19ac38772f368.stex"
+path="res://.import/Wall_Tile_Corner_002.png-1849004af57d4b1b3330224cc817fc7f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game_assets/Tileset/Wall_Tile_Corner_001.png"
-dest_files=[ "res://.import/Wall_Tile_Corner_001.png-49c210b2f78f62e592e19ac38772f368.stex" ]
+source_file="res://game_assets/tileset/Wall_Tile_Corner_002.png"
+dest_files=[ "res://.import/Wall_Tile_Corner_002.png-1849004af57d4b1b3330224cc817fc7f.stex" ]
 
 [params]
 
