@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pirate_game_jam_16")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+494cab355ab50b9462770f069de05638a2d44e8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49dd93ba4f7cd07573ee8ba6f9e704bf8a513127")]
 [assembly: System.Reflection.AssemblyProductAttribute("pirate_game_jam_16")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pirate_game_jam_16")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
