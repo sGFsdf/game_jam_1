@@ -1,0 +1,2 @@
+﻿37009
+/home/takamachi/Desktop/Godot_v3.6-stable_mono_x11_64/Godot_v3.6-stable_mono_x11.64
