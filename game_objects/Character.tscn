@@ -1,9 +1,0 @@
-[gd_scene load_steps=2 format=2]
-
-[ext_resource path="res://game_assets/tileset/Floor_Tile_002.png" type="Texture" id=1]
-
-[node name="Node2D" type="Node2D"]
-
-[node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 175, 144 )
-texture = ExtResource( 1 )
