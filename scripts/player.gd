@@ -9,6 +9,7 @@ func _ready():
 	pass # Replace with function body.
 
 # TODO: Why the fuck does the character jitter SO FUCKING MUCH?  
+# I think it only jitters if it's an unanimated sprite but I dont really know
 func _physics_process(delta):
 	direction = Input.get_vector("move_left", "move_right", "move_up", "move_down").normalized()
 	velocity = direction * speed 

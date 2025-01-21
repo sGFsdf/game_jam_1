@@ -61,6 +61,15 @@ move_left={
  ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="player"
+2d_physics/layer_2="hearts and dna"
+2d_physics/layer_3="enemies"
+2d_physics/layer_4="safe zones"
+2d_physics/layer_5="doors"
+2d_physics/layer_6="world"
+
 [mono]
 
 project/assembly_name="pirate_game_jam_16"
